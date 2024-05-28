@@ -16,7 +16,7 @@ You will need **all** the commands and concepts taught, including, but not limit
 * `grep`
 
 as well as the following commands (use the `man` command and help text):
-* `cut`
+* `cut` (with options for delimiter and fields selection)
 * `tr`
 * `sort` (with options for numerical sorting and reverse sorting)
 
@@ -49,3 +49,4 @@ Using the data file `data-no-header.csv`.
 
 You can use the following rules to challenge yourself
 1. Do not use the `uniq` command
+2. Use the `sed` command in at least one of your answers
